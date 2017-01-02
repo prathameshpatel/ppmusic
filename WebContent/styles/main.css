@@ -1,0 +1,12 @@
+/* minimal CSS for pa2 project for cs636: just positioning parts of the page */
+body {
+ 	width: 750px
+}
+#sidebar {
+    float: left;
+    width: 150px;
+}
+section {
+    float: left;
+    width: 600px;
+}
